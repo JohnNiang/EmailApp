@@ -1,0 +1,4 @@
+smpt_server=smtp.163.com
+smpt_port=25
+pop3_server=pop3.163.com
+pop3_port=110
